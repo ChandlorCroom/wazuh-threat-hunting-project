@@ -29,4 +29,6 @@ This is a hands-on cybersecurity project where I deployed a Wazuh SIEM stack on 
 ---
 
 ## 📁 Files Included
-- 
+- Topology
+- Wazuh Agents Dashboard (REDACTED)
+- Failed Logon (REDACTED)
